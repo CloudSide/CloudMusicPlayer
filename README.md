@@ -6,6 +6,7 @@ A simple and easy-to-use music player support playing-while-downloading feature.
 
 [![](http://service.t.sina.com.cn/widget/qmd/1656360925/02781ba4/4.png)](http://weibo.com/smcz)
 
+![](http://download-vdisk.sina.com.cn/245157/0d1eda76a3264deb368ccdd1d6bace7ad8aa7c28?ssig=RO36T%2BKauJ&Expires=9999999999&KID=sae,l30zoo1wmz&fn=1.png)
 
 -----
 Usage
@@ -31,3 +32,6 @@ or:
 [playerViewController release];
     
 ```
+
+
+
